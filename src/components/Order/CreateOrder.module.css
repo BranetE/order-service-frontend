@@ -1,0 +1,16 @@
+.input, .input:focus{
+    background-color: #212529;
+    border-color: #495057;
+    color: white;
+}
+
+#price{
+    max-width: 120px;
+    margin: auto;
+}
+
+.mb-3{
+    font-size: large;
+    color: white;
+    /* width: 500px; */
+}

@@ -1,0 +1,46 @@
+#root {
+  background-color: #353839;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-color: #353839;
+}
+
+label {
+    color: white;
+}
+
+.form-control, .form-control:focus {
+    margin: 10px;
+    background-color: #212529;
+    border-color: #495057;
+    color: white;
+}
+
+.Dropdown-control{
+  width: 140;
+  border-radius: 6px;
+  background-color: rgb(73, 73, 73);
+}
+
+.Dropdown-option:hover{
+  border-radius: 6px;
+  background-color: white;
+  color: black;
+  z-index: 11;
+}
+
+.Dropdown-menu{
+  position: relative;
+  z-index: 10;
+}
+
+.nav{
+  position: sticky;
+  padding: 15px, auto;
+  border-radius: 6px;
+  top: 0px; left: 0px;
+}
