@@ -1,4 +1,4 @@
-# Identa-task-backend
+# Identa-task-frontend
 # 1. About
 The project involves the creation of an order management system that consists of both user and staff components. 
 Users can create orders, which are instantly sent to the staff for processing. The backend of the system was built using technologies such as Java, the Spring Framework, and Hibernate. 
