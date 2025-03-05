@@ -6,7 +6,6 @@ Testing was performed using JUnit and Mockito. To ensure authentication and auth
 For the frontend, ReactJS, yarn, Vite, HTML, and CSS were used. 
 Communication between the server and client sides of the project occurs through HTTP and WebSocket protocols.
 
-Front-end - https://github.com/BranetE/Identa-task-frontend
 # 2. Instructions on how to run
 1. Clone this repository and set up the backend part of the project using the provided link. 
 2. Run "yarn" command in command line.
